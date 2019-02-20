@@ -1,0 +1,4 @@
+redis-*
+nodes-*.conf
+*.aof
+*.rdb
